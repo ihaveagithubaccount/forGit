@@ -8,6 +8,7 @@ public class Main {
 		 int ii;
 		 int y;
 		 int z;
+		 int x;
 	}
 
 }
